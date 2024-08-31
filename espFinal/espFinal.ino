@@ -2,17 +2,13 @@
 #include <WiFi.h>
 #include <FirebaseESP32.h>
 
-//#define WIFI_SSID "Vodafone_VDSL_51A0"
-//#define WIFI_PASSWORD "YQXNV5HLQLCHJWNH"
 
-#define WIFI_SSID "KIRA"
-#define WIFI_PASSWORD "123456789"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
-//#define API_KEY "AIzaSyBk6p5lkddvNH_vNb7l8MTV-scCZjzDGJ8"
-//#define DATABASE_URL "https://caraccidentesp8266-default-rtdb.firebaseio.com/"
 
-#define FIREBASE_HOST "https://roadhelper-90bab-default-rtdb.firebaseio.com/"
-#define FIREBASE_AUTH "AIzaSyDOUCRViVfnB6lja1ad2TjfqFgPtgpVf8s‏"
+#define FIREBASE_HOST ""
+#define FIREBASE_AUTH ""
 
 
 FirebaseData fbdo;
